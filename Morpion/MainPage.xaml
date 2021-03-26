@@ -18,14 +18,14 @@
         <Label Text="Vous (X)" Grid.Row="0" Grid.Column="0" />
         <Label Text="Adversaire (O)" Grid.Row="0" Grid.Column="2" HorizontalTextAlignment="End"/>
         <Button x:Name="Button1" Grid.Row="1" Grid.Column="0" BackgroundColor="Blue"  Clicked="Button1_Clicked"/>
-        <Button x:Name="Button2" Grid.Row="2" Grid.Column="0" BackgroundColor="Azure" Clicked="Button1_Clicked"/>
-        <Button x:Name="Button3" Grid.Row="3" Grid.Column="0" BackgroundColor="Azure" Clicked="Button1_Clicked"/>
-        <Button x:Name="Button4" Grid.Row="1" Grid.Column="1" BackgroundColor="Azure" Clicked="Button1_Clicked"/>
-        <Button x:Name="Button5" Grid.Row="2" Grid.Column="1" BackgroundColor="Azure" Clicked="Button1_Clicked"/>
-        <Button x:Name="Button6" Grid.Row="3" Grid.Column="1" BackgroundColor="Azure" Clicked="Button1_Clicked"/>
-        <Button x:Name="Button7" Grid.Row="1" Grid.Column="2" BackgroundColor="Azure" Clicked="Button1_Clicked"/>
-        <Button x:Name="Button8" Grid.Row="2" Grid.Column="2" BackgroundColor="Azure" Clicked="Button1_Clicked"/>
-        <Button x:Name="Button9" Grid.Row="3" Grid.Column="2" BackgroundColor="Azure" Clicked="Button1_Clicked"/>
+        <Button x:Name="Button2" Grid.Row="2" Grid.Column="0" BackgroundColor="Blue" Clicked="Button1_Clicked"/>
+        <Button x:Name="Button3" Grid.Row="3" Grid.Column="0" BackgroundColor="Blue" Clicked="Button1_Clicked"/>
+        <Button x:Name="Button4" Grid.Row="1" Grid.Column="1" BackgroundColor="Blue" Clicked="Button1_Clicked"/>
+        <Button x:Name="Button5" Grid.Row="2" Grid.Column="1" BackgroundColor="Blue" Clicked="Button1_Clicked"/>
+        <Button x:Name="Button6" Grid.Row="3" Grid.Column="1" BackgroundColor="Blue" Clicked="Button1_Clicked"/>
+        <Button x:Name="Button7" Grid.Row="1" Grid.Column="2" BackgroundColor="Blue" Clicked="Button1_Clicked"/>
+        <Button x:Name="Button8" Grid.Row="2" Grid.Column="2" BackgroundColor="Blue" Clicked="Button1_Clicked"/>
+        <Button x:Name="Button9" Grid.Row="3" Grid.Column="2" BackgroundColor="Blue" Clicked="Button1_Clicked"/>
     </Grid>
 
 </ContentPage>
