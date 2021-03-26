@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion.UWP\\Morpion.UWP.csproj": {}
+    "C:\\projets\\Test_Formation_1\\Morpion.UWP\\Morpion.UWP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion.UWP\\Morpion.UWP.csproj": {
+    "C:\\projets\\Test_Formation_1\\Morpion.UWP\\Morpion.UWP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion.UWP\\Morpion.UWP.csproj",
+        "projectUniqueName": "C:\\projets\\Test_Formation_1\\Morpion.UWP\\Morpion.UWP.csproj",
         "projectName": "Morpion.UWP",
-        "projectPath": "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion.UWP\\Morpion.UWP.csproj",
+        "projectPath": "C:\\projets\\Test_Formation_1\\Morpion.UWP\\Morpion.UWP.csproj",
         "packagesPath": "C:\\Users\\delar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion.UWP\\obj\\",
+        "outputPath": "C:\\projets\\Test_Formation_1\\Morpion.UWP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -33,8 +33,8 @@
         "frameworks": {
           "uap10.0.16299": {
             "projectReferences": {
-              "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion\\Morpion.csproj": {
-                "projectPath": "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion\\Morpion.csproj"
+              "C:\\projets\\Test_Formation_1\\Morpion\\Morpion.csproj": {
+                "projectPath": "C:\\projets\\Test_Formation_1\\Morpion\\Morpion.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion\\Morpion.csproj": {
+    "C:\\projets\\Test_Formation_1\\Morpion\\Morpion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion\\Morpion.csproj",
+        "projectUniqueName": "C:\\projets\\Test_Formation_1\\Morpion\\Morpion.csproj",
         "projectName": "Morpion",
-        "projectPath": "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion\\Morpion.csproj",
+        "projectPath": "C:\\projets\\Test_Formation_1\\Morpion\\Morpion.csproj",
         "packagesPath": "C:\\Users\\delar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion\\obj\\",
+        "outputPath": "C:\\projets\\Test_Formation_1\\Morpion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

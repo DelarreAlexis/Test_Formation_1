@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion\\Morpion.csproj": {}
+    "C:\\projets\\Test_Formation_1\\Morpion\\Morpion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion\\Morpion.csproj": {
+    "C:\\projets\\Test_Formation_1\\Morpion\\Morpion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion\\Morpion.csproj",
+        "projectUniqueName": "C:\\projets\\Test_Formation_1\\Morpion\\Morpion.csproj",
         "projectName": "Morpion",
-        "projectPath": "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion\\Morpion.csproj",
+        "projectPath": "C:\\projets\\Test_Formation_1\\Morpion\\Morpion.csproj",
         "packagesPath": "C:\\Users\\delar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion\\obj\\",
+        "outputPath": "C:\\projets\\Test_Formation_1\\Morpion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

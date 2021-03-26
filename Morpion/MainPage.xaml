@@ -16,7 +16,8 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         <Label Text="Vous (X)" Grid.Row="0" Grid.Column="0" />
-        <Label Text="Adversaire (O)" Grid.Row="0" Grid.Column="2" HorizontalTextAlignment="End"/>
+        
+        <Label Text="Ennemi" Grid.Row="0" Grid.Column="2" HorizontalTextAlignment="End"/>
         <Button x:Name="Button1" Grid.Row="1" Grid.Column="0" BackgroundColor="Blue"  Clicked="Button1_Clicked"/>
         <Button x:Name="Button2" Grid.Row="2" Grid.Column="0" BackgroundColor="Blue" Clicked="Button1_Clicked"/>
         <Button x:Name="Button3" Grid.Row="3" Grid.Column="0" BackgroundColor="Blue" Clicked="Button1_Clicked"/>

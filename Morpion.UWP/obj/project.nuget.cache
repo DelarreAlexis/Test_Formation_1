@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X79lRY1qrteB+At+K75I1KNP8cnJHNQfSrW3+Q1aK7FuexlRlMXASVFzk/Rh2deWU8KFiOW2vVizBpYEISNJ5g==",
+  "dgSpecHash": "0XbALwb/QHY2MBLgVl4iQUy5CuE8rVhPqhleq1K2/fwL6nbzEkvt+CLDlyUehRObtaQJqx0D3L/E1aGew+1hFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion.UWP\\Morpion.UWP.csproj",
+  "projectFilePath": "C:\\projets\\Test_Formation_1\\Morpion.UWP\\Morpion.UWP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\delar\\.nuget\\packages\\microsoft.net.native.compiler\\2.2.8-rel-28605-00\\microsoft.net.native.compiler.2.2.8-rel-28605-00.nupkg.sha512",
     "C:\\Users\\delar\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.2.10\\microsoft.net.uwpcoreruntimesdk.2.2.10.nupkg.sha512",
