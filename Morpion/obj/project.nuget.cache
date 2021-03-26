@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MwgdrGiazwG6jC9eTUGZXc4bU6Mv3wbVbgmuK+i5VXAEhJX9NdicXaAuEZ9PWE0Ba5zPl61MAebqQp6P+XgOhw==",
+  "dgSpecHash": "bDkkCToHB2r792Aug6fWwxxBuLoypmOiOa+C18xWNW8vUsDv1X4j5cFVg++rtVa6bASeeMon3IfJRe0qFcs1hQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion\\Morpion.csproj",
+  "projectFilePath": "C:\\projets\\Test_Formation_1\\Morpion\\Morpion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\delar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\delar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

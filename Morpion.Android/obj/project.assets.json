@@ -2090,11 +2090,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion.Android\\Morpion.Android.csproj",
+      "projectUniqueName": "C:\\projets\\Test_Formation_1\\Morpion.Android\\Morpion.Android.csproj",
       "projectName": "Morpion.Android",
-      "projectPath": "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion.Android\\Morpion.Android.csproj",
+      "projectPath": "C:\\projets\\Test_Formation_1\\Morpion.Android\\Morpion.Android.csproj",
       "packagesPath": "C:\\Users\\delar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion.Android\\obj\\",
+      "outputPath": "C:\\projets\\Test_Formation_1\\Morpion.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2115,8 +2115,8 @@
       "frameworks": {
         "monoandroid10.0": {
           "projectReferences": {
-            "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion\\Morpion.csproj": {
-              "projectPath": "C:\\Users\\delar\\Desktop\\COURS\\MORPION\\Morpion\\Morpion\\Morpion.csproj"
+            "C:\\projets\\Test_Formation_1\\Morpion\\Morpion.csproj": {
+              "projectPath": "C:\\projets\\Test_Formation_1\\Morpion\\Morpion.csproj"
             }
           }
         }
