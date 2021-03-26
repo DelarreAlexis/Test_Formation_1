@@ -1,0 +1,1 @@
+C:\Users\delar\Desktop\COURS\MORPION\Morpion\Morpion.UWP\Morpion.UWP.csproj;x86

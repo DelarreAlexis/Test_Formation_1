@@ -1,0 +1,14 @@
+C:\Users\delar\Desktop\COURS\MORPION\Morpion\Morpion\bin\Debug\netstandard2.0\Morpion.deps.json
+C:\Users\delar\Desktop\COURS\MORPION\Morpion\Morpion\bin\Debug\netstandard2.0\Morpion.dll
+C:\Users\delar\Desktop\COURS\MORPION\Morpion\Morpion\bin\Debug\netstandard2.0\ref\Morpion.dll
+C:\Users\delar\Desktop\COURS\MORPION\Morpion\Morpion\bin\Debug\netstandard2.0\Morpion.pdb
+C:\Users\delar\Desktop\COURS\MORPION\Morpion\Morpion\obj\Debug\netstandard2.0\Morpion.csprojAssemblyReference.cache
+C:\Users\delar\Desktop\COURS\MORPION\Morpion\Morpion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\delar\Desktop\COURS\MORPION\Morpion\Morpion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\delar\Desktop\COURS\MORPION\Morpion\Morpion\obj\Debug\netstandard2.0\Morpion.AssemblyInfoInputs.cache
+C:\Users\delar\Desktop\COURS\MORPION\Morpion\Morpion\obj\Debug\netstandard2.0\Morpion.AssemblyInfo.cs
+C:\Users\delar\Desktop\COURS\MORPION\Morpion\Morpion\obj\Debug\netstandard2.0\Morpion.csproj.CoreCompileInputs.cache
+C:\Users\delar\Desktop\COURS\MORPION\Morpion\Morpion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\delar\Desktop\COURS\MORPION\Morpion\Morpion\obj\Debug\netstandard2.0\Morpion.dll
+C:\Users\delar\Desktop\COURS\MORPION\Morpion\Morpion\obj\Debug\netstandard2.0\ref\Morpion.dll
+C:\Users\delar\Desktop\COURS\MORPION\Morpion\Morpion\obj\Debug\netstandard2.0\Morpion.pdb
